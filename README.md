@@ -52,3 +52,9 @@ Gemini Generative Model
 Grounded Answer
   ↓
 Source References
+
+## 📸 Application Screenshots
+
+### Main Interface
+
+![Enterprise Knowledge Copilot Main Interface](screenshots/main-ui.png)
