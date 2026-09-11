@@ -57,4 +57,8 @@ Source References
 
 ### Main Interface
 
+![Enterprise Knowledge Copilot Main Interface](./screenshots/main-ui.png)
+
+### Main Interface
+
 ![Enterprise Knowledge Copilot Main Interface](screenshots/main-ui.png)
